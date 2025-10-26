@@ -1,4 +1,3 @@
--- Print full description of the Books table without using DESCRIBE or EXPLAIN
 SELECT 
     COLUMN_NAME AS 'Field',
     COLUMN_TYPE AS 'Type',
